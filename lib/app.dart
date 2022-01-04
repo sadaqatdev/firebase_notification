@@ -53,6 +53,7 @@ class _AppState extends State<App> {
   }
 
   void initMessaging() {
+    //
     var androiInit = AndroidInitializationSettings('ic_launcher');
 
     var iosInit = IOSInitializationSettings();

@@ -31,6 +31,9 @@ dependencies:
   firebase_messaging: ^8.0.0-dev.14
   firebase_core: ^0.7.0
   flutter_local_notifications: ^4.0.0
+  shared_preferences: ^0.5.12+4
+  # flutter_incall: ^1.0.0
+  # eraser: ^1.0.2
 
 dev_dependencies:
   flutter_test:
